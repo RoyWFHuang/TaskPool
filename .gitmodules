@@ -1,0 +1,6 @@
+[submodule "StdHeader"]
+	path = StdHeader
+	url = https://github.com/RoyWFHuang/StdHeader.git
+[submodule "UtilLib"]
+	path = UtilLib
+	url = https://github.com/RoyWFHuang/UtilLib.git
